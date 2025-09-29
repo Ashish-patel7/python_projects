@@ -5,11 +5,11 @@ name = "Ashish" # String variable
 age = 21 # Integer variables
 price = 25.99 #Float variable
 age1 = age
-print(name)
-print(age)
-print(price)
-print("my name is:", name)
-print(age1)
+print(name) # print: Ashish
+print(age)  # print: 21
+print(price) # print: 25.99
+print("my name is:", name) # print: my name is: Ashish
+print(age1) # print: 21 
 
 """
 
