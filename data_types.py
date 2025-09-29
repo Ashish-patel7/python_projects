@@ -11,6 +11,6 @@ age = 21
 old = False
 a = None
 
-print(type(age))
-print(type(old))  
-print(type(a))      
+print(type(age)) # print: <class 'int'>
+print(type(old)) # print: <class 'bool'>
+print(type(a))  # print: <class 'NoneType'>    
